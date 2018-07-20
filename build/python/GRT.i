@@ -177,3 +177,4 @@ using std::string;
 
 %include "../GRT/CoreModules/FeatureExtraction.h"
 %include "../GRT/FeatureExtractionModules/KMeansQuantizer/KMeansQuantizer.h"
+%include "../GRT/RegressionModules/LinearRegression/LinearRegression.h"
