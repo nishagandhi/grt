@@ -29,7 +29,9 @@ def main():
     testDataFilename = args.testfile
 
     #Turn on the training log so we can print the training status of Linear Regression to the screen
-
+    log = GRT.TrainingLog()
+    log.setLoggingEnabled(true)
+    
     #Load the training data
     trainingData = GRT.RegressionData()
     testData = GRT.RegressionData()
