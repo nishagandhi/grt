@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/GaussianMixtureModelsExample.dir/home/nisha/grt/examples/ClusteringModulesExamples/GaussianMixtureModelsExample/GaussianMixtureModelsExample.cpp.o  -o GaussianMixtureModelsExample -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

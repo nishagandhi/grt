@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/DeadZoneExample.dir/home/nisha/grt/examples/PreprocessingModulesExamples/DeadZoneExample/DeadZoneExample.cpp.o  -o DeadZoneExample -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

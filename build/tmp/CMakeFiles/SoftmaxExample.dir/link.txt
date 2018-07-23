@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/SoftmaxExample.dir/home/nisha/grt/examples/ClassificationModulesExamples/SoftmaxExample/SoftmaxExample.cpp.o  -o SoftmaxExample -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

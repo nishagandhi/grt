@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/DTWUnitTest.dir/home/nisha/grt/tests/ClassificationModules/DTWUnitTest.cpp.o  -o DTWUnitTest -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so third_party/gtest/googletest/libgtest.a -lpthread 

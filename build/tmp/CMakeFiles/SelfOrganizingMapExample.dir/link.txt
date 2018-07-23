@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/SelfOrganizingMapExample.dir/home/nisha/grt/examples/ClusteringModulesExamples/SelfOrganizingMapExample/SelfOrganizingMapExample.cpp.o  -o SelfOrganizingMapExample -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

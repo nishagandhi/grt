@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/SoftmaxUnitTest.dir/home/nisha/grt/tests/ClassificationModules/SoftmaxUnitTest.cpp.o  -o SoftmaxUnitTest -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so third_party/gtest/googletest/libgtest.a -lpthread 

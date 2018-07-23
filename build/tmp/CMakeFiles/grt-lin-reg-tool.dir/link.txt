@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/grt-lin-reg-tool.dir/home/nisha/grt/tools/grt-lin-reg-tool.cpp.o  -o grt-lin-reg-tool -Wl,-rpath,/home/nisha/grt/build/tmp: libgrt.so 

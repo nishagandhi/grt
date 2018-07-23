@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/grt-softmax-tool.dir/home/nisha/grt/tools/grt-softmax-tool.cpp.o  -o grt-softmax-tool -Wl,-rpath,/home/nisha/grt/build/tmp: libgrt.so 

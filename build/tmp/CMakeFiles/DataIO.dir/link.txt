@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/DataIO.dir/home/nisha/grt/examples/Tutorials/DataIO/DataIOExample.cpp.o  -o DataIO -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

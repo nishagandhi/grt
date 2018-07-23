@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/MachineLearning101.dir/home/nisha/grt/examples/Tutorials/MachineLearning101/MachineLearning101.cpp.o  -o MachineLearning101 -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

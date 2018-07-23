@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/MatrixUnitTest.dir/home/nisha/grt/tests/DataStructures/MatrixUnitTest.cpp.o  -o MatrixUnitTest -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so third_party/gtest/googletest/libgtest.a -lpthread 

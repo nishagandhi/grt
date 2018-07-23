@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/grt-test-tool.dir/home/nisha/grt/tools/grt-test-tool.cpp.o  -o grt-test-tool -Wl,-rpath,/home/nisha/grt/build/tmp: libgrt.so 

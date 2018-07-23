@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/KNNExample.dir/home/nisha/grt/examples/ClassificationModulesExamples/KNNExample/KNNExample.cpp.o  -o KNNExample -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

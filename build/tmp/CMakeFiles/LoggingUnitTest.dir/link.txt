@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/LoggingUnitTest.dir/home/nisha/grt/tests/Util/LoggingUnitTest.cpp.o  -o LoggingUnitTest -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so third_party/gtest/googletest/libgtest.a -lpthread 

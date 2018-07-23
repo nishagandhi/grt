@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/PCAExample.dir/home/nisha/grt/examples/FeatureExtractionModules/PCAExample/PCAExample.cpp.o  -o PCAExample -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

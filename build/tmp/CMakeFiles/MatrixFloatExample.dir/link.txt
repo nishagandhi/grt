@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/MatrixFloatExample.dir/home/nisha/grt/examples/DatastructuresExamples/MatrixFloatExample/MatrixFloatExample.cpp.o  -o MatrixFloatExample -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

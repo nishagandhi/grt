@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/MLPRegressionExample.dir/home/nisha/grt/examples/RegressionModulesExamples/MLPRegressionExample/MLPRegressionExample.cpp.o  -o MLPRegressionExample -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so 

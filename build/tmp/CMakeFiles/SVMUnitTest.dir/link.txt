@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/SVMUnitTest.dir/home/nisha/grt/tests/ClassificationModules/SVMUnitTest.cpp.o  -o SVMUnitTest -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so third_party/gtest/googletest/libgtest.a -lpthread 

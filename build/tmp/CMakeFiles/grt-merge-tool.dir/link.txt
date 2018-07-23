@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/grt-merge-tool.dir/home/nisha/grt/tools/grt-merge-tool.cpp.o  -o grt-merge-tool -Wl,-rpath,/home/nisha/grt/build/tmp: libgrt.so 

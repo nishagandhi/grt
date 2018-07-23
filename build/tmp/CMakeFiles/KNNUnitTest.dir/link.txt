@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=c++11  -rdynamic CMakeFiles/KNNUnitTest.dir/home/nisha/grt/tests/ClassificationModules/KNNUnitTest.cpp.o  -o KNNUnitTest -Wl,-rpath,/home/nisha/grt/build/tmp libgrt.so third_party/gtest/googletest/libgtest.a -lpthread 
